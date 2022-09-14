@@ -1,4 +1,4 @@
-[![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://rishavchanda.io)
+[![MasterHead](https://i3.wp.com/imageio.forbes.com/specials-images/imageserve//62ac5da6dad8c4c2780ae0ff/0x0.jpg?resize=750,375)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">Objective Driven Frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAS/programmer.gif">
