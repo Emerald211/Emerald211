@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **internship and entry level frontend roles**
 
-- 💬 Ask me about **react.js, tailwind, javascript**
+- 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **aderibigbeemmanuel2004@gmail.com**
 
