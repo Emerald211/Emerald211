@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">Objective Driven Frontend developer from Nigeria</h3>
+<h3 align="center">Objective Driven Frontend Software developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477u5msbyqc8rq7ihy88p97lq0d3ufrtsxfe6hkf16&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emerald211&label=Profile%20views&color=0e75b6&style=flat" alt="emerald211" /> </p>
 
 <p align="left"> <a href="https://twitter.com/edrums011" target="blank"><img src="https://img.shields.io/twitter/follow/edrums011?logo=twitter&style=for-the-badge" alt="edrums011" /></a> </p>
 
-- 🔭 I’m currently working on **Blog App**
+- 🔭 I’m currently working on **Various Sass Projects**
 
-- 🌱 I work with **Javscript ||React.js**
+- 🌱 I work with **React || Typescript**
 
 - 👯 I’m looking to collaborate on **any projects**
 
